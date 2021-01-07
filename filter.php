@@ -6,8 +6,8 @@
     <body>
 
         <h1>This is a Heading</h1>
+        <h2>This is a Heading</h2>
         <p>This is a paragraph.</p>
-        <h2>Ravikumar</h2>
-        <p>This is a paragraph.</p>
+
     </body>
 </html> 
